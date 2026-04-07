@@ -32,7 +32,9 @@ Removed unnecessary columns (Dividends, Stock Splits)
 Created a Target variable:
 1 → Price goes up next day
 0 → Price goes down
-3. Feature Engineering
+<img width="746" height="270" alt="visual selection" src="https://github.com/user-attachments/assets/6531469c-771c-45e5-ada3-d5cb38b1d0e5" />
+
+4. Feature Engineering
 Created new features:
 Rolling averages
 Trend indicators
@@ -42,13 +44,13 @@ Ratio features across multiple horizons:
 60 days
 250 days
 1000 days
-4. Model Building
+5. Model Building
 Used Random Forest Classifier
 Tuned parameters:
 n_estimators
 min_samples_split
 Probability threshold (0.6)
-5. Backtesting
+6. Backtesting
 Implemented a custom backtesting function:
 Train on past data
 Test on future data in steps
