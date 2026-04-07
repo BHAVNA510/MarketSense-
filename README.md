@@ -32,7 +32,8 @@ Removed unnecessary columns (Dividends, Stock Splits)
 Created a Target variable:
 1 → Price goes up next day
 0 → Price goes down
-<img width="746" height="270" alt="visual selection" src="https://github.com/user-attachments/assets/6531469c-771c-45e5-ada3-d5cb38b1d0e5" />
+<img width="721" height="125" alt="visual selection" src="https://github.com/user-attachments/assets/527a7aeb-1a4c-4d15-ada5-db43a71ab53f" />
+
 
 4. Feature Engineering
 Created new features:
