@@ -85,6 +85,7 @@ Use sentiment analysis (news data)
 ├── notebook.ipynb
 ├── model.py
 ├── README.md
-🙌 Author
 
+
+🙌 Author
 Bhavna Meena
